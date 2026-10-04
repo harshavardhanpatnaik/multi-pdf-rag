@@ -1,0 +1,16 @@
+# Core LangChain & Orchestration
+langchain==1.4.2
+langchain-core==1.6.5
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+
+# Ollama LLM & Embeddings
+langchain-ollama==1.1.0
+ollama==0.6.2
+
+# Vector Store (Chroma)
+langchain-chroma==1.0.0
+chromadb==1.0.20
+
+# PDF Loading & Parsing
+pypdf==6.0.0
